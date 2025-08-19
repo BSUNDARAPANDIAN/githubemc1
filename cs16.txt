@@ -1,0 +1,7 @@
+Return and Break are same.
+Return used in Function.
+Break used in Loops under if condition
+Return are used to terminate the function/loop
+When you call the return the function will return the value to previous function
+
+If you use continue under if condition ,the loop will go for next iteration by skiping the statement under it

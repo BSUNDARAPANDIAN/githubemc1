@@ -1,0 +1,4 @@
+Number of iteration depends on value present in i(loop counter) 
+In loop 1 is assigned to i;
+In conditional part we have to use lessthan or equalto operator
+The  statement is fact =  i*fact;

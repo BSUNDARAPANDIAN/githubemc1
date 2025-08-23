@@ -1,0 +1,1 @@
+In conditional part we can also type sizeof(arr)/sizeof(arr[0]).

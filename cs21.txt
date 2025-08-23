@@ -1,0 +1,6 @@
+The statement for reverse is reverse * 10 + remainder.
+Initialize final variable to 0.
+Extract the last digit by modulus.
+Shrinks the given number by dividing.
+I am not modifying given number by assigning the value to start variable.
+

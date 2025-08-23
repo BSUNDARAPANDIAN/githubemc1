@@ -1,0 +1,4 @@
+Find the length using built in function.
+In conditional part compare the loop counter with length.
+It is not work for duplicate values.
+

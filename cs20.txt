@@ -1,0 +1,3 @@
+Don't use n-1 + n-2 in loop method.
+Use addition and swap the terms.
+In conditional part the loop counter is less than the input taken from keyboard.

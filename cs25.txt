@@ -1,0 +1,1 @@
+We have to initialize varaible sum = 0;

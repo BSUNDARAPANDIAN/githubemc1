@@ -1,0 +1,2 @@
+Inside loop we have to use if condition
+To find smallest elemnet we have to use greater than symbol in if condition.

@@ -1,0 +1,2 @@
+The statement to covert a string to uppercase is: str[i]=str[i]-('a'-'A')
+The value ('a'-'A') is 32.

@@ -1,0 +1,4 @@
+The last element in the string array is NULL('\0').
+In conditional part we have to use length != '\0'.
+In this case we cannot use string with space.
+This method is not working for string with space.

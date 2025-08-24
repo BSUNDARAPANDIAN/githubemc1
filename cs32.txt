@@ -1,0 +1,3 @@
+Take the base and exponent from keyboard.
+The statement is to find power of number is: result= result*base.
+Put one condition for input for non negative number.

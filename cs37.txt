@@ -1,0 +1,9 @@
+Program to find armstrong number.
+For this we need  Nested loop.
+Outer loop for.
+Inner loop while.
+Inside for loop one if is need.
+Sum of cube of each digit is equal to its original number.
+In this we use printf inside for loop.
+And out side the while loop.
+Above while loop , we have to initialize zero to sum.

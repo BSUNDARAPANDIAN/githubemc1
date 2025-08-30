@@ -1,0 +1,8 @@
+Table of a given number.
+Don't forget to put \n(back slash n).
+If you want use i>0, use do while loop.
+Because do while execute the statement inside loop, atleast one time even before checking the condition.
+In do..while don't forget to put semicolon at last.
+In conditional part upto how much time you want to print the data, that quantity need to be used.
+
+

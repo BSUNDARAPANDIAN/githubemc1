@@ -1,0 +1,13 @@
+Program to implement the calculator.
+Get three inputs.
+Two for operands.
+One for operator.
+Put one if condition for denominator not equal to zero.
+For this we need switch.
+In conditional part use variable of the input.
+In case lable use operator with single quotes.
+In printf statements use backslash n(\n), don't forget.
+If you use single percentile symbol inside double quotes,it checks for meaning.
+If meaning is not there,it will not displayed.
+If you use double percentile symbol,there is meaning,it will print one percentile symbol.
+It doesn't thrown any error.

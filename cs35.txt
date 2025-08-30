@@ -1,0 +1,8 @@
+Least Common Multiple of two numbers.
+4 5 20
+-X-=
+5 5 20
+
+It goes on Eight loop 
+By the time eight loop is terminating we got result of 4 and 5 is 20.
+

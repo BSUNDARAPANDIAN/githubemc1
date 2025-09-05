@@ -1,0 +1,5 @@
+Program to remove duplicate elements.
+
+The logic is arr1==arr2,then store the elements in arr3.
+
+By the time find out the duplicate , need to reduce the size of array.

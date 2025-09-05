@@ -9,8 +9,10 @@ int main()
 	original= num;
 
 	if(num<0)
+	{
 		num= -num;
-
+		original= num;
+	}
 	while(num>0)
 	{
 		remainder= num%10;

@@ -1,0 +1,3 @@
+Program to check the given value is palindrome or not.
+Give minus value and print the value with removed minus.
+And print the value is palindrome or not.

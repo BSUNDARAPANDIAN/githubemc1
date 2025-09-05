@@ -1,0 +1,3 @@
+Program to find sum of upper triangular matrix.
+The logic is i<=j.
+

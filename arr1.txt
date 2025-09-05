@@ -1,0 +1,3 @@
+Program to store and print the element in array.
+
+By using array name with index number or subscript number.

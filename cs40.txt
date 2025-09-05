@@ -1,0 +1,3 @@
+Program to find sum of lower tiangular matrix
+The logic is i>=j.
+

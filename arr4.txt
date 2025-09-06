@@ -1,0 +1,5 @@
+Program to copy the element from one array to another array.
+
+Processing can be done by using LOOPs.
+
+Don't forgot to put backslash n.

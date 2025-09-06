@@ -1,0 +1,11 @@
+Read the element of array and print in reverse order.
+
+First array starts from zero.
+
+Second array starts from size - one.
+
+In conditional part first array <= second array - one.
+
+First array get incremented.
+
+Second array get decremented.

@@ -1,0 +1,7 @@
+Program to sum of all elements in array.
+
+Read the input from keyboard.
+
+Don't cross the size of fixed array.
+
+The logic is  sum+ array name with subscript.
